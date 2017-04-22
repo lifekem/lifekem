@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "anons.html",
+    "currentPage": "video1.html",
     "name": "АКВИЛОН'3D",
     "theme": {
       "name": "mobirise3",
@@ -647,7 +647,7 @@
             "paddingTop": 4,
             "paddingBottom": 4,
             "bgColor": "#2e2e2e",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -657,7 +657,7 @@
             "video": {
               "src": "https://youtu.be/sdIpYZo66nM",
               "autoplay": false,
-              "loop": false,
+              "loop": "on",
               "active": true
             }
           },
