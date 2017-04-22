@@ -568,6 +568,13 @@ h6,
 #features1-17 .mbr-cards-col:nth-child(odd) .card-text {
   color: #efefef;
 }
+#social-buttons3-1k .mbr-section-title,
+#social-buttons3-1k .btn-social {
+  color: #fff;
+}
+#social-buttons3-1k .mbr-section-title {
+  font-size: 20px;
+}
 #ext_menu-18 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -628,6 +635,13 @@ h6,
 #ext_menu-18 .link[aria-expanded="true"],
 #ext_menu-18 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#social-buttons3-1l .mbr-section-title,
+#social-buttons3-1l .btn-social {
+  color: #fff;
+}
+#social-buttons3-1l .mbr-section-title {
+  font-size: 20px;
 }
 #ext_menu-19 .hide-buttons .nav-btn {
   display: none !important;
@@ -690,6 +704,19 @@ h6,
 #ext_menu-19 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header6-1m .mbr-section-title {
+  color: #28262b;
+}
+#header6-1m .mbr-section-text {
+  color: #565656;
+}
+#social-buttons3-1g .mbr-section-title,
+#social-buttons3-1g .btn-social {
+  color: #fff;
+}
+#social-buttons3-1g .mbr-section-title {
+  font-size: 20px;
+}
 #ext_menu-1a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -750,6 +777,19 @@ h6,
 #ext_menu-1a .link[aria-expanded="true"],
 #ext_menu-1a .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header6-1n .mbr-section-title {
+  color: #28262b;
+}
+#header6-1n .mbr-section-text {
+  color: #565656;
+}
+#social-buttons3-1h .mbr-section-title,
+#social-buttons3-1h .btn-social {
+  color: #fff;
+}
+#social-buttons3-1h .mbr-section-title {
+  font-size: 20px;
 }
 #ext_menu-1b .hide-buttons .nav-btn {
   display: none !important;
@@ -812,6 +852,19 @@ h6,
 #ext_menu-1b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header6-1o .mbr-section-title {
+  color: #28262b;
+}
+#header6-1o .mbr-section-text {
+  color: #565656;
+}
+#social-buttons3-1i .mbr-section-title,
+#social-buttons3-1i .btn-social {
+  color: #fff;
+}
+#social-buttons3-1i .mbr-section-title {
+  font-size: 20px;
+}
 #ext_menu-1c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -872,4 +925,17 @@ h6,
 #ext_menu-1c .link[aria-expanded="true"],
 #ext_menu-1c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header6-1p .mbr-section-title {
+  color: #28262b;
+}
+#header6-1p .mbr-section-text {
+  color: #565656;
+}
+#social-buttons3-1j .mbr-section-title,
+#social-buttons3-1j .btn-social {
+  color: #fff;
+}
+#social-buttons3-1j .mbr-section-title {
+  font-size: 20px;
 }
