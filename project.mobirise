@@ -182,7 +182,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/6-222x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-179x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
