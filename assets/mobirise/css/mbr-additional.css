@@ -568,13 +568,6 @@ h6,
 #features1-17 .mbr-cards-col:nth-child(odd) .card-text {
   color: #efefef;
 }
-#social-buttons3-1k .mbr-section-title,
-#social-buttons3-1k .btn-social {
-  color: #fff;
-}
-#social-buttons3-1k .mbr-section-title {
-  font-size: 20px;
-}
 #ext_menu-18 .hide-buttons .nav-btn {
   display: none !important;
 }
