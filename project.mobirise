@@ -687,12 +687,12 @@
           "_name": "header6",
           "_anchor": "header6-1m",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "70",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -701,10 +701,10 @@
             "overlayOpacity": "0.9",
             "overlayColor": "#ccc",
             "inverse": true,
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButtons": true,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -726,41 +726,7 @@
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
           "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
-        },
-        {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "20px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-1g",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": true,
-            "odnoklassniki": true
-          },
-          "text": "Увидел сам, поделись с друзьями!"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
         }
       ]
     },
