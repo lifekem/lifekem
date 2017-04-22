@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 38,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/unnamed-128x128-1.png",
     "noImageResize": ""
@@ -39,32 +39,17 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
-              "color": "#efefef",
-              "font-size": "20px"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
-              "color": "#fac51c"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-b",
+          "_name": "header1",
+          "_anchor": "header1-11",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/3d-2000x1331.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -72,347 +57,26 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.9",
-            "overlayColor": "#222",
+            "overlayColor": "#282828",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButtons": true
           },
-          "title": "АКВИЛОН' 3D",
-          "text": "<h4>Киноконцертный зал кемского ЦКиС</h4>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
+          "title": "АКВИЛОН '3D",
+          "text": "Киноконцертный зал Кемского ЦКиС",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">СЕАНСЫ</a>",
           "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#e9e7e7"
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#c0a375"
             },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#000000"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#000000"
+            ".mbr-section-lead": {
+              "color": "#c1c1c1"
             }
-          },
-          "_anchor": "features1-h",
-          "_params": {
-            "columnsColor": "#e9e7e7",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bossbaby-600x853.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Босс - молокосос",
-          "subtitle1": "Прирожденный лидер",
-          "caption1": "Эта актуальная во все времена история для взрослых и детей рассказывается от лица семилетнего брата новорожденного — фантазера Тима, который ревнует его к родителям. Но главный герой — совсем не простой ребенок, он обладает лидерскими задатками, уже носит деловые костюмы и во всем видит бизнес-задачу.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/forsazch856-600x848.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Форсаж 8",
-          "subtitle2": "Их дороги расходятся",
-          "caption2": "Пристегните ремни — гонка продолжается. Гавана, Берлин, Нью-Йорк — для самой крутой команды в мире нет ничего невозможного, пока они вместе. Но когда на их пути окажется одна из самых красивых женщин на планете и по совместительству королева киберпреступности, дороги друзей разойдутся.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/aq00rstdaubuish9lqto7whxcz6-600x857.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Урфин Джюс",
-          "subtitle3": "и его деревянные солдаты",
-          "caption3": "Коварный и злобный Урфин Джюс решил стать повелителем Волшебной страны, захватить Изумрудный город при помощи своих солдат-дуболомов и переименовать его в Урфинград. Он уже готовится праздновать победу, но в дело вмешивается самая обычная девочка Элли.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/vremjapervyh-600x856.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Время первых",
-          "subtitle4": "Подними голову",
-          "caption4": "60-е. Разгар холодной войны. Две супердержавы, СССР и США бьются за первенство в космической гонке. Пока СССР впереди, на очереди — выход человека в открытый космос.<br><br>За две недели до старта взрывается тестовый корабль. Времени на выявление причин нет. И пусть риски огромны, мы не можем уступить лидерство.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#f7da64",
-              "font-size": "36px"
-            },
-            "P": {
-              "color": "#c1c1c1",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box4-e",
-          "_params": {
-            "imageSize": "55",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/kuhnjaposlednjajabitva-2000x1000.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#000000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/I9zUBhlqyfw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Кухня: Последняя битва",
-          "text": "<p>По сюжету фильма «Кухня. Последняя битва» шеф Баринов отправляется в экзотический Шанхай, где ему предстоит сразиться с лучшими кулинарами в мире. Вместе с ним едет и хозяин ресторана в исполнении Нагиева, который вляпался по-крупному и теперь вынужден скрываться...</p><br><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">СКОРО В КИНОТЕАТРАХ СТРАНЫ</span></p><p> </p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
-        },
-        {
-          "_inherit": "features1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features2",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#d8d8d8"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#232323",
-              "text-align": "left",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#979797"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#5e5e5e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#232323"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "text-align": "left",
-              "color": "#232323",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#979797"
-            }
-          },
-          "_anchor": "features2-p",
-          "_params": {
-            "columnsColor": "#d8d8d8",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tbmwa-slyoy-2000x1000.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#222",
-            "columns": "5",
-            "showImages": false,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "desktop",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title1": "19 апреля",
-          "subtitle1": "Среда",
-          "caption1": "15:30 &nbsp; Время первых<br>3D / 6+ /&nbsp;100 р<br><br>19:00 &nbsp; Форсаж 8<br>3D / 12+ / 250 р<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "mobile",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title2": "20 апреля",
-          "subtitle2": "Четверг",
-          "caption2": "15:00 &nbsp;Босс-молокосос<br>3D / 6+ / 150 р<br><br>18:00 &nbsp; Урфин Джюс и его деревянные солдаты<br>3D / 0+ / 150 р",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "pencil",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title3": "21 апреля",
-          "subtitle3": "Пятница",
-          "caption3": "15:00 &nbsp; Босс-молокосос<br>3D / 6+ / 150 р",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title4": "22 апреля",
-          "subtitle4": "Суббота",
-          "caption4": "15:00 &nbsp; &nbsp;Урфин Джюс и его деревянные солдаты<br>3D / 0+ / 150 р<br><br>17:00 &nbsp; Босс-молокосос<br>3D / 6+ / 150 р<br><br>19:00 &nbsp; &nbsp;Форсаж 8<br>3D / 12+ / 250 р<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "23 апреля",
-          "subtitle5": "Воскресение",
-          "caption5": "17:00 &nbsp; Урфин Джюс и его деревянные солдаты<br>3D / 0+ / 150 р<br><br>19:00 &nbsp; Форсаж 8<br>3D / 12+ / 250 р<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          }
         },
         {
           "_inherit": "social-buttons1",
@@ -446,7 +110,7 @@
             "vkontakte": true,
             "odnoklassniki": true
           },
-          "text": "<span style=\"font-weight: normal;\">Увидел сам, расскажи друзьям!</span>"
+          "text": "<span style=\"font-weight: normal;\">Увидел сам, поделись с друзьями!</span>"
         },
         {
           "_inherit": "menu",

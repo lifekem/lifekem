@@ -1,9 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
 
 
 
@@ -412,59 +410,13 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-#msg-box8-b .mbr-section-title,
-#msg-box8-b p {
-  color: #fff;
+#header1-11 .mbr-section-title {
+  font-size: 48px;
+  font-family: 'Open Sans', sans-serif;
+  color: #c0a375;
 }
-#msg-box8-b .lead {
-  color: #efefef;
-  font-size: 20px;
-}
-#msg-box8-b .mbr-section-title {
-  font-family: 'Droid Serif', serif;
-  color: #fac51c;
-}
-#features1-h .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #e9e7e7;
-}
-#features1-h .mbr-cards-col:nth-child(odd) .card-title {
-  color: #000000;
-}
-#features1-h .mbr-cards-col:nth-child(odd) .card-text {
-  color: #000000;
-}
-#msg-box4-e H3 {
-  color: #f7da64;
-  font-size: 36px;
-}
-#msg-box4-e P {
+#header1-11 .mbr-section-lead {
   color: #c1c1c1;
-  text-align: left;
-}
-#features2-p .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #d8d8d8;
-}
-#features2-p .mbr-cards-col:nth-child(even) .card-text {
-  color: #232323;
-  text-align: left;
-  font-family: 'Lora', serif;
-}
-#features2-p .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #979797;
-}
-#features2-p .mbr-cards-col:nth-child(even) .card-title {
-  color: #5e5e5e;
-}
-#features2-p .mbr-cards-col:nth-child(odd) .card-title {
-  color: #232323;
-}
-#features2-p .mbr-cards-col:nth-child(odd) .card-text {
-  text-align: left;
-  color: #232323;
-  font-family: 'Lora', serif;
-}
-#features2-p .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #979797;
 }
 #social-buttons3-w .mbr-section-title,
 #social-buttons3-w .btn-social {
