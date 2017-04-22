@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "video3.html",
+    "currentPage": "video4.html",
     "name": "АКВИЛОН'3D",
     "theme": {
       "name": "mobirise3",
@@ -1302,10 +1302,10 @@
           "_name": "header6",
           "_anchor": "header6-1p",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "60",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3d-2000x1331.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1314,10 +1314,10 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.9",
-            "overlayColor": "#ccc",
+            "overlayColor": "#2e2e2e",
             "inverse": true,
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButtons": true,
             "showArrow": true
           },
@@ -1328,9 +1328,9 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/mvsYJgqsuNc",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             },
             "iconFont": {
@@ -1341,7 +1341,7 @@
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
           "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"anons.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
         },
         {
           "_inherit": "social-buttons1",
@@ -1359,8 +1359,8 @@
           "_name": "social-buttons3",
           "_anchor": "social-buttons3-1j",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
