@@ -755,9 +755,9 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/6c_fDnxXnfE",
+              "src": "https://youtu.be/ZpaZy4r1cOQ",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             },
             "iconFont": {
@@ -786,8 +786,8 @@
           "_name": "social-buttons3",
           "_anchor": "social-buttons3-1q",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
