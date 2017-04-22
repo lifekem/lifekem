@@ -1114,7 +1114,7 @@
             "imageSize": "60",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3d-2000x1331.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
