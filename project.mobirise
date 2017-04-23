@@ -624,7 +624,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375",
-              "font-size": "24px",
+              "font-size": "20px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
@@ -647,7 +647,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
@@ -672,7 +672,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375",
-              "font-size": "24px",
+              "font-size": "20px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
@@ -689,7 +689,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#333333",
             "bgColorRadio": true,
@@ -714,7 +714,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375",
-              "font-size": "24px",
+              "font-size": "20px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
@@ -731,7 +731,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
@@ -756,7 +756,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375",
-              "font-size": "24px",
+              "font-size": "20px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
@@ -773,7 +773,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#333333",
             "bgColorRadio": true,
@@ -798,7 +798,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375",
-              "font-size": "24px",
+              "font-size": "20px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
@@ -815,7 +815,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
