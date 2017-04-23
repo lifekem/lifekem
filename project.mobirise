@@ -624,7 +624,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375",
-              "font-size": "25px"
+              "font-size": "24px"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a",
@@ -645,7 +645,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
