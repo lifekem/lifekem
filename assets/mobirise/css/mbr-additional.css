@@ -651,10 +651,17 @@ h6,
 }
 #header5-1y .mbr-section-title {
   color: #c0a375;
-  font-size: 36px;
+  font-size: 25px;
 }
 #header5-1y .mbr-section-lead {
   color: #9c9a9a;
+  font-size: 15px;
+}
+#header5-1y .mbr-section-lead B {
+  font-size: 22px;
+}
+#header5-1y .mbr-section-lead SPAN {
+  font-size: 20px;
 }
 #social-buttons3-1l .mbr-section-title,
 #social-buttons3-1l .btn-social {

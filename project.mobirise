@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "seans.html",
     "name": "АКВИЛОН'3D",
     "theme": {
       "name": "mobirise3",
@@ -621,10 +621,17 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375",
-              "font-size": "36px"
+              "font-size": "25px"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#9c9a9a",
+              "font-size": "15px"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "22px"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -652,7 +659,7 @@
             "showButtons": false
           },
           "title": "26 апреля",
-          "text": "<br>15:00 <br><b style=\"font-style: normal;\">   Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b style=\"font-style: normal;\">  Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b style=\"font-style: normal;\">   Форсаж 8</b><br>3D / 12+ / 250 р",
+          "text": "<br><span style=\"font-style: normal;\">15:00 </span><br><b style=\"font-style: normal;\">   Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br><span style=\"font-style: normal;\">17:00</span> <br><b style=\"font-style: normal;\">  Босс-молокосос</b><br>3D / 6+ / 150 р<br><br><span style=\"font-style: normal;\">19:00</span> <br><b style=\"font-style: normal;\">   Форсаж 8</b><br>3D / 12+ / 250 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
