@@ -581,6 +581,12 @@ h6,
   font-size: 20px;
 }
 
+
+#header1-21 .mbr-section-title {
+  color: #c0a375;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 46px;
+}
 #ext_menu-18 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -642,6 +648,13 @@ h6,
 #ext_menu-18 .link[aria-expanded="true"],
 #ext_menu-18 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header5-1y .mbr-section-title {
+  color: #c0a375;
+  font-size: 36px;
+}
+#header5-1y .mbr-section-lead {
+  color: #9c9a9a;
 }
 #social-buttons3-1l .mbr-section-title,
 #social-buttons3-1l .btn-social {
