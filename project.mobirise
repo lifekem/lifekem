@@ -633,7 +633,8 @@
               "font-size": "20px"
             },
             ".mbr-section-lead B": {
-              "font-size": "22px"
+              "font-size": "20px",
+              "color": "#c0a375"
             },
             ".mbr-section-lead SPAN": {
               "font-size": "20px"
@@ -662,12 +663,12 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "left",
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">26 апреля (среда)</span>",
-          "text": "<br>15:00 <br><b>   Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>  Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>   Форсаж 8</b><br>3D / 12+ / 250 р",
+          "text": "<b>26 апреля (среда)</b><br><br>15:00 <br><b>   Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>  Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>   Форсаж 8</b><br>3D / 12+ / 250 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
