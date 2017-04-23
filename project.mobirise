@@ -43,6 +43,17 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#c0a375"
+            },
+            ".mbr-section-lead": {
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "header1-11",
           "_params": {
             "parallax": true,
@@ -65,18 +76,7 @@
           },
           "title": "АКВИЛОН '3D",
           "text": "Киноконцертный зал Кемского ЦКиС",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"anons.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"seans.html\" data-toolbar=\"-mbrBtnMove\">СЕАНСЫ</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "46px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#c0a375"
-            },
-            ".mbr-section-lead": {
-              "color": "#c1c1c1"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"anons.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"seans.html\" data-toolbar=\"-mbrBtnMove\">СЕАНСЫ</a>"
         },
         {
           "_inherit": "social-buttons1",
@@ -309,6 +309,29 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#c0a375"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#c0a375"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#7e9b9f"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#7e9b9f"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "features1-17",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -420,30 +443,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#c0a375"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#c0a375"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#7e9b9f"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#7e9b9f"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#efefef"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#efefef"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "social-buttons1",
@@ -492,6 +492,17 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "46px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
+            }
+          },
           "_anchor": "header1-21",
           "_params": {
             "parallax": true,
@@ -514,18 +525,7 @@
           },
           "title": "АКВИЛОН '3D<br><span style=\"font-weight: normal;\">РАСПИСАНИЕ СЕАНСОВ</span>",
           "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Выберите дату:</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-1y\" data-toolbar=\"-mbrBtnMove\">26.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-23\" data-toolbar=\"-mbrBtnMove\">27.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-24\" data-toolbar=\"-mbrBtnMove\">28.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-25\" data-toolbar=\"-mbrBtnMove\">29.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-26\" data-toolbar=\"-mbrBtnMove\">30.04</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#c0a375",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "46px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-1y\" data-toolbar=\"-mbrBtnMove\">26.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-23\" data-toolbar=\"-mbrBtnMove\">27.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-24\" data-toolbar=\"-mbrBtnMove\">28.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-25\" data-toolbar=\"-mbrBtnMove\">29.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-26\" data-toolbar=\"-mbrBtnMove\">30.04</a> "
         },
         {
           "_inherit": "menu",
@@ -880,8 +880,8 @@
             "facebook": true,
             "twitter": true,
             "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "vkontakte": true,
+            "odnoklassniki": true
           },
           "text": "Увидел сам, поделись с друзьями!"
         }
