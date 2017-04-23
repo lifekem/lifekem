@@ -513,7 +513,7 @@
             "showButtons": true
           },
           "title": "АКВИЛОН '3D<br><span style=\"font-weight: normal;\">РАСПИСАНИЕ СЕАНСОВ</span>",
-          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Выберите дату:</span><br>",
+          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Выберите дату:</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">26.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">27.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">28.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">29.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">30.04</a> ",
           "_styles": {
             ".mbr-section-title": {
@@ -521,6 +521,9 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "46px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
             }
           }
         },

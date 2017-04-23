@@ -587,6 +587,9 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 46px;
 }
+#header1-21 .mbr-section-title SPAN {
+  font-size: 30px;
+}
 #ext_menu-18 .hide-buttons .nav-btn {
   display: none !important;
 }
