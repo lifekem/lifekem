@@ -637,6 +637,9 @@
             },
             ".mbr-section-lead SPAN": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "22px"
             }
           },
           "_tags": [
@@ -663,7 +666,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "26 апреля <span style=\"font-weight: normal;\">(среда)</span>",
+          "title": "<span style=\"font-weight: normal;\">26 апреля (среда)</span>",
           "text": "<br>15:00 <br><b>   Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>  Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>   Форсаж 8</b><br>3D / 12+ / 250 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
@@ -679,6 +682,9 @@
             ".mbr-section-lead": {
               "color": "#9c9a9a",
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "22px"
             }
           },
           "_tags": [
@@ -705,7 +711,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "27 апреля <span style=\"font-weight: normal;\">(четверг)</span><br><br>",
+          "title": "<span style=\"font-weight: normal;\">27 апреля (четверг)</span><br><br>",
           "text": "15:00 <br><b>Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>Форсаж 8</b><br>3D / 12+ / 250 р<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
@@ -721,6 +727,9 @@
             ".mbr-section-lead": {
               "color": "#9c9a9a",
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "22px"
             }
           },
           "_tags": [
@@ -747,7 +756,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "28 апреля <span style=\"font-weight: normal;\">(пятница)</span><br><br>",
+          "title": "<span style=\"font-weight: normal;\">28 апреля (пятница)</span><br><br>",
           "text": "15:00 <br><b>Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>Форсаж 8</b><br>3D / 12+ / 250 р<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
@@ -763,6 +772,9 @@
             ".mbr-section-lead": {
               "color": "#9c9a9a",
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "22px"
             }
           },
           "_tags": [
@@ -789,7 +801,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "29 апреля <span style=\"font-weight: normal;\">(суббота)</span><br><br>",
+          "title": "<span style=\"font-weight: normal;\">29 апреля (суббота)</span><br><br>",
           "text": "15:00 <br><b>Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>Форсаж 8</b><br>3D / 12+ / 250 р<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
@@ -805,6 +817,9 @@
             ".mbr-section-lead": {
               "color": "#9c9a9a",
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "22px"
             }
           },
           "_tags": [
@@ -831,7 +846,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "30 апреля <span style=\"font-weight: normal;\">(воскресение)</span><br><br>",
+          "title": "<span style=\"font-weight: normal;\">30 апреля (воскресение)</span><br><br>",
           "text": "15:00 <br><b>Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>Форсаж 8</b><br>3D / 12+ / 250 р<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },

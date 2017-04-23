@@ -672,6 +672,9 @@ h6,
 #header5-1y .mbr-section-lead SPAN {
   font-size: 20px;
 }
+#header5-1y .mbr-section-title SPAN {
+  font-size: 22px;
+}
 #header5-23 .mbr-section-title {
   color: #c0a375;
   font-size: 20px;
@@ -680,6 +683,9 @@ h6,
 #header5-23 .mbr-section-lead {
   color: #9c9a9a;
   font-size: 20px;
+}
+#header5-23 .mbr-section-title SPAN {
+  font-size: 22px;
 }
 #header5-24 .mbr-section-title {
   color: #c0a375;
@@ -690,6 +696,9 @@ h6,
   color: #9c9a9a;
   font-size: 20px;
 }
+#header5-24 .mbr-section-title SPAN {
+  font-size: 22px;
+}
 #header5-25 .mbr-section-title {
   color: #c0a375;
   font-size: 20px;
@@ -699,6 +708,9 @@ h6,
   color: #9c9a9a;
   font-size: 20px;
 }
+#header5-25 .mbr-section-title SPAN {
+  font-size: 22px;
+}
 #header5-26 .mbr-section-title {
   color: #c0a375;
   font-size: 20px;
@@ -707,6 +719,9 @@ h6,
 #header5-26 .mbr-section-lead {
   color: #9c9a9a;
   font-size: 20px;
+}
+#header5-26 .mbr-section-title SPAN {
+  font-size: 22px;
 }
 #social-buttons3-27 .mbr-section-title,
 #social-buttons3-27 .btn-social {
