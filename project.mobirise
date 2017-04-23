@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "seans.html",
+    "currentPage": "index.html",
     "name": "АКВИЛОН'3D",
     "theme": {
       "name": "mobirise3",
@@ -31,8 +31,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Аквилон 3D",
-        "meta_descr": "Киноконцертный зал кемского ЦКиС. Расписание сеансов.",
+        "title": "Аквилон 3D ЦКиС г. Кемь",
+        "meta_descr": "Киноконцертный зал Кемского ЦКиС",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -208,8 +208,8 @@
     },
     "anons.html": {
       "settings": {
-        "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description"
+        "title": "Аквилон 3D ЦКиС г. Кемь",
+        "meta_descr": "Анонсы фильмов, официальные тизеры"
       },
       "components": [
         {
@@ -483,8 +483,8 @@
     },
     "seans.html": {
       "settings": {
-        "title": "Web Site Generator Title",
-        "meta_descr": "Web Site Generator Description"
+        "title": "Аквилон 3D ЦКиС г. Кемь",
+        "meta_descr": "Расписание сеансов"
       },
       "components": [
         {
@@ -889,8 +889,8 @@
     },
     "video1.html": {
       "settings": {
-        "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "title": "Аквилон 3D ЦКиС г. Кемь",
+        "meta_descr": "Тизер 1"
       },
       "components": [
         {
@@ -1046,8 +1046,8 @@
     },
     "video2.html": {
       "settings": {
-        "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description"
+        "title": "Аквилон 3D ЦКиС г. Кемь",
+        "meta_descr": "Тизер 2"
       },
       "components": [
         {
@@ -1203,8 +1203,8 @@
     },
     "video3.html": {
       "settings": {
-        "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
+        "title": "Аквилон 3D ЦКиС г. Кемь",
+        "meta_descr": "Тизер 3"
       },
       "components": [
         {
@@ -1360,8 +1360,8 @@
     },
     "video4.html": {
       "settings": {
-        "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "title": "Аквилон 3D ЦКиС г. Кемь",
+        "meta_descr": "Тизер 4"
       },
       "components": [
         {
