@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 74,
+    "uniqCompNum": 80,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/unnamed-128x128-1.png",
     "noImageResize": ""
@@ -514,7 +514,7 @@
           },
           "title": "АКВИЛОН '3D<br><span style=\"font-weight: normal;\">РАСПИСАНИЕ СЕАНСОВ</span>",
           "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Выберите дату:</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">26.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">27.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">28.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">29.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">30.04</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-1y\" data-toolbar=\"-mbrBtnMove\">26.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-23\" data-toolbar=\"-mbrBtnMove\">27.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-24\" data-toolbar=\"-mbrBtnMove\">28.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-25\" data-toolbar=\"-mbrBtnMove\">29.04</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seans.html#header5-26\" data-toolbar=\"-mbrBtnMove\">30.04</a> ",
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375",
@@ -628,7 +628,7 @@
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a",
-              "font-size": "15px"
+              "font-size": "20px"
             },
             ".mbr-section-lead B": {
               "font-size": "22px"
@@ -645,7 +645,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
@@ -661,8 +661,168 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "26 апреля",
-          "text": "<br><span style=\"font-style: normal;\">15:00 </span><br><b style=\"font-style: normal;\">   Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br><span style=\"font-style: normal;\">17:00</span> <br><b style=\"font-style: normal;\">  Босс-молокосос</b><br>3D / 6+ / 150 р<br><br><span style=\"font-style: normal;\">19:00</span> <br><b style=\"font-style: normal;\">   Форсаж 8</b><br>3D / 12+ / 250 р",
+          "title": "26 апреля <span style=\"font-weight: normal;\">(среда)</span>",
+          "text": "<br>15:00 <br><b>   Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>  Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>   Форсаж 8</b><br>3D / 12+ / 250 р",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "font-size": "24px"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-23",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#333333",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "27 апреля <span style=\"font-weight: normal;\">(четверг)</span><br><br>",
+          "text": "15:00 <br><b>Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>Форсаж 8</b><br>3D / 12+ / 250 р<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "font-size": "24px"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-24",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "28 апреля <span style=\"font-weight: normal;\">(пятница)</span><br><br>",
+          "text": "15:00 <br><b>Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>Форсаж 8</b><br>3D / 12+ / 250 р<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "font-size": "24px"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-25",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#333333",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "29 апреля <span style=\"font-weight: normal;\">(суббота)</span><br><br>",
+          "text": "15:00 <br><b>Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>Форсаж 8</b><br>3D / 12+ / 250 р<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "font-size": "24px"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-26",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "30 апреля <span style=\"font-weight: normal;\">(воскресение)</span><br><br>",
+          "text": "15:00 <br><b>Урфин Джюс и его деревянные солдаты</b><br>3D / 0+ / 150 р<br><br>17:00 <br><b>Босс-молокосос</b><br>3D / 6+ / 150 р<br><br>19:00 <br><b>Форсаж 8</b><br>3D / 12+ / 250 р<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -679,10 +839,10 @@
             "Theme"
           ],
           "_name": "social-buttons3",
-          "_anchor": "social-buttons3-1l",
+          "_anchor": "social-buttons3-27",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -694,8 +854,8 @@
             "facebook": true,
             "twitter": true,
             "google": true,
-            "vkontakte": true,
-            "odnoklassniki": true
+            "vkontakte": false,
+            "odnoklassniki": false
           },
           "text": "Увидел сам, поделись с друзьями!"
         }
